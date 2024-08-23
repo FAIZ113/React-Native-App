@@ -17,5 +17,5 @@ Android
 - Errors:   0
 Warnings: 0
 
-![npx react-native doctor](/npx react-native doctor.png) 
+![react-native-doctor](/react-native-doctor.png) 
 
