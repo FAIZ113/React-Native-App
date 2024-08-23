@@ -12,6 +12,36 @@ npx react-native doctor
   </tr>
 </table>
 
+#### Check JVM and gradle-version
+
+ ```html
+gradle -v
+```
+
+<table>
+  <tr>
+    <td >
+    <img src="/images/gradle-version.png" alt="gradle-version"  />
+    </td>
+  </tr>
+</table>
+
+
+#### Kill all running processes
+
+ ```html
+taskkill /m /im node.exe
+```
+
+
+ 
+#### Check running Gradle daemons .
+
+ ```html
+gradle --status
+gradle --stop
+```
+
 
 #### Run code
 
